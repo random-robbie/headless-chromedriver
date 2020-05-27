@@ -10,7 +10,7 @@
     --disable-extensions \
     --disable-gpu \
     --disable-sync \
-    --user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:75.0) Gecko/20100101 Firefox/75.0"
+    --user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:75.0) Gecko/20100101 Firefox/75.0" \
     --disable-translate \
     --hide-scrollbars \
     --metrics-recording-only \
