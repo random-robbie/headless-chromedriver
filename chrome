@@ -7,10 +7,13 @@
     --no-sandbox \
     --disable-background-networking \
     --disable-default-apps \
+    --disable-popup-blocking \
     --disable-extensions \
     --disable-gpu \
     --disable-sync \
-    --user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:75.0) Gecko/20100101 Firefox/75.0" \
+    --incognito \
+    --disable-blink-features=AutomationControlled \
+    --user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" \
     --disable-translate \
     --hide-scrollbars \
     --metrics-recording-only \
