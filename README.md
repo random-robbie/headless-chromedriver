@@ -6,7 +6,7 @@ This contains a `Dockerfile` that runs Chrome in headless mode with Chromedriver
 Run the image:
 
 ```
-docker run -it -p:4444:4444 random-robbie/headless-chromedriver
+docker run -it -p:4444:4444 txt3rob/headless-chromedriver
 ```
 
 Python example:
